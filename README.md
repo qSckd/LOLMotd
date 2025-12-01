@@ -7,6 +7,7 @@ LOLMotd is a lightweight and customizable BungeeCord plugin designed to provide 
 
 This plugin was made for my server (Imanity Network - imanity.lol) thats why the name is LOLMotd and then was given to RagePvP Network, which had 100 players running this plugin with no issues.
 ![img.png](img.png)
+
 New servers using the plugin:
 
 <img width="629" height="220" alt="image" src="https://github.com/user-attachments/assets/bad08b19-8f3e-4ff6-a18e-658460e7a494" />
@@ -104,6 +105,7 @@ Please ensure your code is well-documented and includes appropriate tests if app
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 
 
